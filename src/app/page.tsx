@@ -6,7 +6,7 @@ import { Jobs } from "@/containers/Home/Jobs";
 import { Contacts } from "@/containers/Contacts";
 import { Collage } from "@/containers/Home/Collage";
 
-import image1 from "../assets/Renate.png";
+import image1 from "../assets/example.jpg";
 
 import styles from "./page.module.css";
 import "swiper/css";

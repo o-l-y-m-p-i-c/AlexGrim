@@ -7,7 +7,7 @@ import styles from "./styles.module.css";
 // import ScrollTrigger from "gsap/ScrollTrigger";
 // import { useEffect, useRef } from "react";
 import Image from "next/image";
-import image1 from "../../../assets/Renate.png";
+import image1 from "../../../assets/example.jpg";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { ReactNode } from "react";
 import { Button } from "@/components/Button";
