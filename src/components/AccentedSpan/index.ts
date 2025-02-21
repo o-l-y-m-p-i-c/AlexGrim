@@ -1,0 +1,1 @@
+export { AccentedSpan } from "./AccentedSpan";

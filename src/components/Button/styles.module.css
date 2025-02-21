@@ -1,0 +1,17 @@
+.button {
+  display: inline-block;
+  text-decoration: none;
+  padding: 10px 20px;
+  background-color: var(--background);
+  border: 1px solid var(--accent-color);
+  border-radius: var(--border-radius);
+  color: var(--accent-color);
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease-out;
+}
+
+.button.outlined:hover {
+  background-color: var(--accent-color);
+  color: var(--background);
+}

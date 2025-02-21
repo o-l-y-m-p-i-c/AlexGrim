@@ -1,0 +1,1 @@
+export { CollageCard } from "./CollageCard";

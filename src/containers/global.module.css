@@ -1,0 +1,11 @@
+.container {
+  padding: 0 40px;
+  max-width: var(--container-width);
+  width: 100%;
+  margin: 0 auto;
+}
+
+.vertical_padding {
+  padding-top: 100px;
+  /* padding-bottom: 100px; */
+}

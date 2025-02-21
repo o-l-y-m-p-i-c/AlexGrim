@@ -1,0 +1,1 @@
+export { Collage } from "./Collage";

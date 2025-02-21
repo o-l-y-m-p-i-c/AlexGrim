@@ -1,0 +1,36 @@
+.header {
+  position: fixed;
+  top: 0;
+  padding: 20px 0;
+  z-index: 2;
+  background: var(--secondary-background);
+  width: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  max-width: var(--container-width);
+  margin: 0 auto;
+  border-bottom-right-radius: var(--border-radius);
+  border-bottom-left-radius: var(--border-radius);
+}
+
+.logo {
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.header_container {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+}
+
+.nav {
+  display: flex;
+  gap: 15px;
+}
+
+.nav a {
+  padding: 1px;
+  display: block;
+  text-decoration: none;
+}
